@@ -1,2 +1,2 @@
-to Start Project - npm run start
-to install all dependencies - npm install
+👉👉 To Start Project - npm run start
+👉👉 To install all dependencies - npm install
